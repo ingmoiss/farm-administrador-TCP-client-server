@@ -1,0 +1,6 @@
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\bin\Debug\Libreria.dll
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\bin\Debug\Libreria.pdb
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\obj\Debug\Libreria.csproj.CoreCompileInputs.cache
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\obj\Debug\Libreria.dll
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\obj\Debug\Libreria.pdb
+D:\UNED\Materias\Primer Cuatrimestre 2021\Programacion Avanzada\Trabajos\Proyecto\Proyecto\Libreria\Libreria\obj\Debug\Libreria.csprojAssemblyReference.cache
